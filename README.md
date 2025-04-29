@@ -42,3 +42,6 @@ ship_mode: Shipping method used for the order.
 -- Time based grouping
 -- Trend Analysis using SQL
 -- Buisness insights from sales data
+
+# Credits
+-- Parag
